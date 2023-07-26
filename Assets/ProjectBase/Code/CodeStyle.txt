@@ -1,0 +1,38 @@
+/*
+    public event Action OnButtonClicked;
+
+    public WindowBase Window;
+
+    [SerializeField] private WindowStaticData _windowStaticData;
+
+    private GameObject _gameObject;
+
+    private const string PROGRESS_KEY = "PlayerProgress";
+
+    public GameObject GameObject => _gameObject;
+    
+    public float CalculatedValue => value == 1 ? GetFirstValue : null; // No complex property pls, one condition max
+                                                                       // if more conditions, then create a method
+    
+    public GameObject Property { get; private set; }
+
+    [Inject] private Service _injectedService1; // !! No injection in fields, only construct methods or constructors
+
+    private Service _injectedService2;
+    
+    [Inject]
+    private void Construct(Service service) // Like that
+    {
+        _injectedService2 = service;
+    }
+    
+    Order also important:
+    1. Events, Actions;
+    2. Public fields (shouldn't be without purpose, use property with private setter if possible);
+    3. SerializeField fields;
+    4. private fields;
+    5. Constants;
+    6. Properties;
+         
+     Methods in order of a lifecycle of a class, #region can be used, but only for methods
+*/
