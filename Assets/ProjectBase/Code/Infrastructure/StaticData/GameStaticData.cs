@@ -1,7 +1,7 @@
-using SkyCastleSkillbox.Code.StaticData;
+using ProjectBase.Code.StaticData;
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StaticData
+namespace ProjectBase.Code.Infrastructure.StaticData
 {
     [CreateAssetMenu(fileName = "GameStaticData", menuName = "Static Data/GameStaticData")]
     public class GameStaticData : ScriptableObject

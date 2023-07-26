@@ -1,6 +1,6 @@
-using SkyCastleSkillbox.Code.Infrastructure.Saving;
+using ProjectBase.Code.Infrastructure.Saving;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SaveLoadService
+namespace ProjectBase.Code.Infrastructure.Services.SaveLoadService
 {
     public class PlayerProgress
     {

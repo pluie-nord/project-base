@@ -1,8 +1,8 @@
 using System;
-using SkyCastleSkillbox.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Data;
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StaticData
+namespace ProjectBase.Code.Infrastructure.StaticData
 {
     [Serializable]
     public class WindowConfig

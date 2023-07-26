@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Extensions
+namespace ProjectBase.Code.Extensions
 {
     public static class Utils
     {

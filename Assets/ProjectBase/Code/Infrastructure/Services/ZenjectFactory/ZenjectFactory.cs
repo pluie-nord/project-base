@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.ZenjectFactory
+namespace ProjectBase.Code.Infrastructure.Services.ZenjectFactory
 {
     /// <summary>
     /// Used for instantiate objects that need an injection (spawn in DontDestroyOnLoad if parent is null)

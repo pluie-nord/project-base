@@ -1,4 +1,4 @@
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine
+namespace ProjectBase.Code.Infrastructure.StateMachine
 {
     public interface IGameStateMachine
 

@@ -1,11 +1,11 @@
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SaveLoadService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.StaticData;
-using SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Services.SaveLoadService;
+using ProjectBase.Code.Infrastructure.Services.StaticData;
+using ProjectBase.Code.Infrastructure.Services.UIFactory;
 using UnityEngine.SceneManagement;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine.States
+namespace ProjectBase.Code.Infrastructure.StateMachine.States
 {
     public class BootstrapState : IState
     {

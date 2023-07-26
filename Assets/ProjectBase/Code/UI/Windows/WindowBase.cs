@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace SkyCastleSkillbox.Code.Windows
+namespace ProjectBase.Code.Windows
 {
     public abstract class WindowBase : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SoundService
+namespace ProjectBase.Code.Infrastructure.Services.SoundService
 {
     public class SoundService : MonoBehaviour, ISoundService
     {

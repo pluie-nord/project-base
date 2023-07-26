@@ -1,6 +1,6 @@
-using SkyCastleSkillbox.Code.Infrastructure.StaticData;
+using ProjectBase.Code.Infrastructure.StaticData;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.AssetProvider
+namespace ProjectBase.Code.Infrastructure.Services.AssetProvider
 {
     public interface IAssetProvider
     {

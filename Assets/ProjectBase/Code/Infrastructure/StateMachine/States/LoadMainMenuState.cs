@@ -1,9 +1,9 @@
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SceneLoaderService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Services.SceneLoaderService;
+using ProjectBase.Code.Infrastructure.Services.UIFactory;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine.States
+namespace ProjectBase.Code.Infrastructure.StateMachine.States
 {
     public class LoadMainMenuState : IState, IPayloadedState<bool>
     {

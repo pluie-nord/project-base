@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.ZenjectFactory
+namespace ProjectBase.Code.Infrastructure.Services.ZenjectFactory
 {
     public interface IZenjectFactory
     {

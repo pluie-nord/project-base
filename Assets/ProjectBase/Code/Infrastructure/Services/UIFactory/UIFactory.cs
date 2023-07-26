@@ -1,11 +1,11 @@
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.Services.StaticData;
-using SkyCastleSkillbox.Code.Infrastructure.Services.ZenjectFactory;
-using SkyCastleSkillbox.Code.Infrastructure.StaticData;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Services.StaticData;
+using ProjectBase.Code.Infrastructure.Services.ZenjectFactory;
+using ProjectBase.Code.Infrastructure.StaticData;
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory
+namespace ProjectBase.Code.Infrastructure.Services.UIFactory
 {
     public class UIFactory : IUIFactory
     {

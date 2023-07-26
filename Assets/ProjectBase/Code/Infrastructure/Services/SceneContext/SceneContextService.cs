@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SceneContext
+namespace ProjectBase.Code.Infrastructure.Services.SceneContext
 {
     public class SceneContextService : ISceneContextService
     {

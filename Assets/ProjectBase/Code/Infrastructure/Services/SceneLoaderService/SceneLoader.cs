@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.Services.CoroutineRunner;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Services.CoroutineRunner;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SceneLoaderService
+namespace ProjectBase.Code.Infrastructure.Services.SceneLoaderService
 {
     public class SceneLoader : ISceneLoader
     {

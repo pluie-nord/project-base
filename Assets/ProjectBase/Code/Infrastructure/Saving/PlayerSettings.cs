@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Saving
+namespace ProjectBase.Code.Infrastructure.Saving
 {
     [Serializable]
     public class PlayerSettings

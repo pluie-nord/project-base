@@ -1,4 +1,4 @@
-namespace SkyCastleSkillbox.Code.Infrastructure.Data
+namespace ProjectBase.Code.Infrastructure.Data
 {
     public enum WindowID
     {

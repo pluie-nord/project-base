@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using SkyCastleSkillbox.Code.Infrastructure.StateMachine.States;
+using ProjectBase.Code.Infrastructure.StateMachine.States;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine
+namespace ProjectBase.Code.Infrastructure.StateMachine
 {
     public class GameStateMachine : IGameStateMachine
     {

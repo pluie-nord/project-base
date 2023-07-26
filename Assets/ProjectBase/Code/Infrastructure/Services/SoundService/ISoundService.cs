@@ -1,4 +1,4 @@
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SoundService
+namespace ProjectBase.Code.Infrastructure.Services.SoundService
 {
     public interface ISoundService
     {

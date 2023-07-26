@@ -1,4 +1,4 @@
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SaveLoadService
+namespace ProjectBase.Code.Infrastructure.Services.SaveLoadService
 {
     public interface ISaveLoadService
     {

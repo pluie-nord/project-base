@@ -1,7 +1,7 @@
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.StaticData;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.StaticData;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.StaticData
+namespace ProjectBase.Code.Infrastructure.Services.StaticData
 {
     public interface IStaticDataService
     {

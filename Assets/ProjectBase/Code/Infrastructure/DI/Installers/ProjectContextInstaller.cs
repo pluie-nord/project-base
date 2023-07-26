@@ -1,19 +1,19 @@
 using CrushLink.Code.Infrastructure.Services.UpdateBehaviorService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.AssetProvider;
-using SkyCastleSkillbox.Code.Infrastructure.Services.CoroutineRunner;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SaveLoadService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SceneContext;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SceneLoaderService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SoundService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.StaticData;
-using SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory;
-using SkyCastleSkillbox.Code.Infrastructure.Services.ZenjectFactory;
-using SkyCastleSkillbox.Code.Infrastructure.StateMachine;
-using SkyCastleSkillbox.Code.Infrastructure.StateMachine.States;
+using ProjectBase.Code.Infrastructure.Services.AssetProvider;
+using ProjectBase.Code.Infrastructure.Services.CoroutineRunner;
+using ProjectBase.Code.Infrastructure.Services.SaveLoadService;
+using ProjectBase.Code.Infrastructure.Services.SceneContext;
+using ProjectBase.Code.Infrastructure.Services.SceneLoaderService;
+using ProjectBase.Code.Infrastructure.Services.SoundService;
+using ProjectBase.Code.Infrastructure.Services.StaticData;
+using ProjectBase.Code.Infrastructure.Services.UIFactory;
+using ProjectBase.Code.Infrastructure.Services.ZenjectFactory;
+using ProjectBase.Code.Infrastructure.StateMachine;
+using ProjectBase.Code.Infrastructure.StateMachine.States;
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.DI.Installers
+namespace ProjectBase.Code.Infrastructure.DI.Installers
 {
     public class ProjectContextInstaller : MonoInstaller, ICoroutineRunner
     {

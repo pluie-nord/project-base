@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SceneContext
+namespace ProjectBase.Code.Infrastructure.Services.SceneContext
 {
     public class SceneContextComponent : MonoBehaviour
     {

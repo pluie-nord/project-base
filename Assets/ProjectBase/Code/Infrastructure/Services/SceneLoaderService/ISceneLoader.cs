@@ -1,7 +1,7 @@
 using System;
-using SkyCastleSkillbox.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Data;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.SceneLoaderService
+namespace ProjectBase.Code.Infrastructure.Services.SceneLoaderService
 {
     public interface ISceneLoader
     {

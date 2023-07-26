@@ -1,7 +1,7 @@
-using SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory;
+using ProjectBase.Code.Infrastructure.Services.UIFactory;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine.States
+namespace ProjectBase.Code.Infrastructure.StateMachine.States
 {
     public class GameLoopState : IState
     {

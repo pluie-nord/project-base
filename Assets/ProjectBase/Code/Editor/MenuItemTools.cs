@@ -1,9 +1,9 @@
-using SkyCastleSkillbox.Code.Infrastructure.StaticData;
+using ProjectBase.Code.Infrastructure.StaticData;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Editor
+namespace ProjectBase.Code.Editor
 {
     public class MenuItemTools : EditorWindow
     {

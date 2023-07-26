@@ -1,12 +1,12 @@
-using SkyCastleSkillbox.Code.Infrastructure.Data;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SceneContext;
-using SkyCastleSkillbox.Code.Infrastructure.Services.SceneLoaderService;
-using SkyCastleSkillbox.Code.Infrastructure.Services.StaticData;
-using SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory;
+using ProjectBase.Code.Infrastructure.Data;
+using ProjectBase.Code.Infrastructure.Services.SceneContext;
+using ProjectBase.Code.Infrastructure.Services.SceneLoaderService;
+using ProjectBase.Code.Infrastructure.Services.StaticData;
+using ProjectBase.Code.Infrastructure.Services.UIFactory;
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.StateMachine.States
+namespace ProjectBase.Code.Infrastructure.StateMachine.States
 {
     public class LoadLevelState : IPayloadedState<string>, IPayloadedState<SceneID>
     {

@@ -1,9 +1,9 @@
-using SkyCastleSkillbox.Code.Infrastructure.StateMachine;
-using SkyCastleSkillbox.Code.Infrastructure.StateMachine.States;
+using ProjectBase.Code.Infrastructure.StateMachine;
+using ProjectBase.Code.Infrastructure.StateMachine.States;
 using UnityEngine;
 using Zenject;
 
-namespace SkyCastleSkillbox.Code.Infrastructure
+namespace ProjectBase.Code.Infrastructure
 {
     public class GameBootstrapper : MonoBehaviour
     {

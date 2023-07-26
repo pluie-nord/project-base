@@ -1,4 +1,4 @@
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.UIFactory
+namespace ProjectBase.Code.Infrastructure.Services.UIFactory
 {
     public interface IUIFactory
     {

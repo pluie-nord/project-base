@@ -1,7 +1,7 @@
-using SkyCastleSkillbox.Code.Infrastructure.StaticData;
+using ProjectBase.Code.Infrastructure.StaticData;
 using UnityEngine;
 
-namespace SkyCastleSkillbox.Code.Infrastructure.Services.AssetProvider
+namespace ProjectBase.Code.Infrastructure.Services.AssetProvider
 {
     public class AssetProvider : IAssetProvider
     {
